@@ -1,5 +1,5 @@
 {
-  "name" : "harentius/blog-bundle",
+  "name" : "behigh/blog-bundle",
   "type": "symfony-bundle",
   "description": "Simple Symfony blog/cms",
   "keywords": ["blog", "bundle", "symfony", "cms"],
